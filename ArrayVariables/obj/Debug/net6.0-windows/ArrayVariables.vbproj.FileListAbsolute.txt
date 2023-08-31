@@ -1,0 +1,16 @@
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\bin\Debug\net6.0-windows\ArrayVariables.exe
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\bin\Debug\net6.0-windows\ArrayVariables.deps.json
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\bin\Debug\net6.0-windows\ArrayVariables.runtimeconfig.json
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\bin\Debug\net6.0-windows\ArrayVariables.dll
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\bin\Debug\net6.0-windows\ArrayVariables.pdb
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.Form1.resources
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.vbproj.GenerateResource.cache
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.AssemblyInfoInputs.cache
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.AssemblyInfo.vb
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.vbproj.CoreCompileInputs.cache
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.dll
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\refint\ArrayVariables.dll
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.pdb
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ArrayVariables.genruntimeconfig.cache
+C:\Users\dev00\OneDrive\Desktop\jp\ArrayVariables\ArrayVariables\obj\Debug\net6.0-windows\ref\ArrayVariables.dll
